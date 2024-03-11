@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Roberto Falcão</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Angular, Next.Js**
+- 🌱 I’m currently learning **Angular, Next.Js** and Python
 
 - 👨‍💻 All of my projects are available at [https://meu-portfolio-sage.vercel.app/](https://meu-portfolio-sage.vercel.app/)
 
